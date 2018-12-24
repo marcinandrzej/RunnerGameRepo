@@ -1,2 +1,2 @@
 # RunnerGameRepo
-Runner game. Avoid zombies, using buttons to change color.
+Runner android game. Avoid zombies, using buttons to change color.
